@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-05-01T22:14:08.273Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2024-05-01T22:04:08.273Z"
+    },
+    {
+      "id": 3,
+      "description": "Fone QCY",
+      "type": "outcome",
+      "category": "Produto",
+      "price": 180,
+      "createdAt": "2024-05-01T22:18:08.273Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-05-02T03:30:11.276Z",
+      "id": 4
+    },
+    {
+      "description": "danone",
+      "price": 15,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-05-02T03:48:59.418Z",
+      "id": 5
+    },
+    {
+      "description": "Rocketseat",
+      "price": 3000,
+      "category": "Educação",
+      "type": "outcome",
+      "createdAt": "2024-05-03T03:23:11.398Z",
+      "id": 6
+    }
+  ]
+}
